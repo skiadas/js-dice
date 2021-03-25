@@ -1,0 +1,17 @@
+{
+  "name": "js-dice",
+  "version": "0.0.1",
+  "description": "Javascript library for rolling dice",
+  "main": "index.js",
+  "repository": "https://github.com/skiadas/js-dice.git",
+  "author": "Haris Skiadas <cskiadas@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.12",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
